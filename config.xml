@@ -16,8 +16,6 @@
 	<preference name="smartUpdate" value="false" />
 	<preference name="debug" value="true"/>
 	<preference name="statusBarAppearance" value="true"/>
-	<meta-data name="Mob-AppKey" value=""/>
-	<meta-data name="Mob-AppSecret" value=""/>
 	<permission name="readPhoneState" />
 	<permission name="camera" />
 	<permission name="record" />

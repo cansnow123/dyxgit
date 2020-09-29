@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>MOBAppKey</key>
-	<string>2dc7769c35e60</string>
+	<string>30fa04e8b3280</string>
 	<key>MOBAppSecret</key>
-	<string>92d83f2423af2341ffb4267650a62ed8</string>
+	<string>c0d23f1d5f4e50434572a08da87987b8</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
         <key>NSAllowsArbitraryLoads</key>
